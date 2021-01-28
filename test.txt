@@ -1,2 +1,2 @@
-"this is a message"
+"this is a message that I have deleted in new Branch1"
 this is a second message  
